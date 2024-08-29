@@ -9,8 +9,6 @@ Password Manager is a secure and user-friendly web application designed to help 
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
