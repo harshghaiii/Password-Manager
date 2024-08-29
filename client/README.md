@@ -68,15 +68,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- GitHub: [kabirsingh2004](https://github.com/kabirsingh2004)
-- Email: [Discord](https://discord.gg/PcUVWApWN3)
-
 Happy Password Managing! 🌟
