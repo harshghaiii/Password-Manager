@@ -10,9 +10,6 @@ The Password Manager Server is the backend component of the Password Manager pro
 - [Configuration](#configuration)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - **Secure Password Storage:** Implements robust security measures to store passwords safely.
@@ -78,16 +75,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 3. Commit your changes: `git commit -m 'Add some feature'`.
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Open a pull request.
-
-## License
-
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- GitHub: [kabirsingh2004](https://github.com/kabirsingh2004)
-- Email: [Discord](https://discord.gg/PcUVWApWN3)
 
 Happy Secure Password Managing! 🌐🔒
